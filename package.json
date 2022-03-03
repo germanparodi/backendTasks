@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Homework Express 01",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node ./app.js"
+  },
+  "author": "\"German Parodi\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
